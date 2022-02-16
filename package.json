@@ -1,0 +1,8 @@
+{
+  "name": "ssd1331",
+  "description": "Kaluma library for SSD1306 (Monochrome OLED Display)",
+  "version": "1.0.0",
+  "dependencies": {
+    "simple-fonts": "git+https://github.com/niklauslee/simple-fonts.git"
+  }
+}
