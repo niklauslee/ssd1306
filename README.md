@@ -111,8 +111,6 @@ Setup SSD1306 driver for a given I2C bus and options.
 
 - **Returns**: `<BufferedGraphicsContext>` An instance of buffered graphic context for SSD1306.
 
-Get a graphic context so that you can use [Graphics APIs](https://docs.kaluma.io/api-reference/graphics).
-
 #### ssd1306.on()
 
 Turn on the display.
@@ -154,8 +152,6 @@ Setup SSD1306 driver for a given SPI bus and options.
 #### ssd1306.getContext()
 
 - **Returns**: `<BufferedGraphicsContext>` An instance of buffered graphic context for SSD1306.
-
-Get a graphic context so that you can use [Graphics APIs](https://docs.kaluma.io/api-reference/graphics).
 
 #### ssd1306.on()
 
