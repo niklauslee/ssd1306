@@ -173,3 +173,8 @@ Set contrast of the display.
 * `examples/ex_i2c_128x64.js` (128x64 resolution via I2C)
 * `examples/ex_spi_128x32.js` (128x32 resolution via SPI)
 * `examples/ex_spi_128x64.js` (128x64 resolution via SPI)
+
+```sh
+# example for 128x64 (I2C)
+kaluma flash ./examples/ex_i2c_128x64.js --bundle --port <port>
+```

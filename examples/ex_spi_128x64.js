@@ -3,8 +3,6 @@
  */
 
 const { SSD1306 } = require("../spi");
-const font = require("simple-fonts/lee-sans");
-const logo = require("./logo.bmp.json");
 const showcase = require("./gc-mono-showcase");
 
 const ssd1306 = new SSD1306();

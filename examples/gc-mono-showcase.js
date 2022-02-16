@@ -1,3 +1,6 @@
+const font = require("simple-fonts/lee-sans");
+const logo = require("./logo.bmp.json");
+
 /**
  * Perform mono graphic showcase
  * @param {GraphicContext} gc
