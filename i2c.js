@@ -89,7 +89,7 @@ class SSD1306 {
 
   /**
    * Return a graphic context
-   * @return {GraphicContext}
+   * @return {GraphicsContext}
    */
   getContext() {
     if (!this.context) {
