@@ -3,7 +3,7 @@ const logo = require("./logo.bmp.json");
 
 /**
  * Perform mono graphic showcase
- * @param {GraphicContext} gc
+ * @param {GraphicsContext} gc
  */
 function showcase(gc, interval) {
   // start
